@@ -1,3 +1,4 @@
+#Calculate the users bmi and tell them which range they fall in
 weight=int(input("Enter your weight in lbs "))
 height=int(input("Enter your height in inches "))
 bmi= round((weight/height**2)*703,2)
