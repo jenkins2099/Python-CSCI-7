@@ -22,4 +22,4 @@ else:
         bill+=3
     if extra_cheese=='Y':
         bill+=1
-print(f'Your bill is ${bill}')
+print(f'Your bill is ${bill}.')
