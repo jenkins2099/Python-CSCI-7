@@ -1,3 +1,4 @@
+#CYOA where user's goal is to reach treasure
 print('Welcolme to Treasure Island. /n Your mission is to find the treasure.')
 roadChoice=input('You\'re at a cross road. Where do you want to go? Type "left" or "right". ')
 
